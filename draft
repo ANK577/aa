@@ -1,0 +1,29 @@
+<html>
+  <body>
+    <div class="darksoul-notifications">
+      <div class="datetime">
+        <h4 id="day">Monday</h4>
+        <p id="time"></p>
+      </div>
+      <div class="weather">
+        <div class="noti-icons">
+          <img
+            width="20"
+            height="20"
+            src="https://img.icons8.com/external-sbts2018-lineal-color-sbts2018/58/FFFFFF/external-notification-ecommerce-basic-1-sbts2018-lineal-color-sbts2018.png"
+            alt="external-notification-ecommerce-basic-1-sbts2018-lineal-color-sbts2018"
+          />
+        </div>
+        <div class="combine">
+          <h4>Fog</h4>
+          <img
+            width="64"
+            height="64"
+            src="https://img.icons8.com/fluency/48/fog-night.png"
+            alt="fog-night"
+          />
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
